@@ -9,7 +9,6 @@ cachetools==4.2.2
 celery==4.4.2
 certifi==2019.11.28
 chardet==3.0.4
-chrome-gnome-shell==0.0.0
 Click==7.0
 click-didyoumean==0.0.3
 click-plugins==1.1.1
